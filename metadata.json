@@ -1,0 +1,5 @@
+{
+  "name": "Scouting Skills Trivia",
+  "description": "A trivia game to test your knowledge of Scouting skills. Select four categories from Scout Ranks, Flag Etiquette, and a wide variety of Merit Badges to start the challenge. Questions are generated on-the-fly to provide a unique experience every time you play.",
+  "requestFramePermissions": []
+}
